@@ -1,4 +1,4 @@
-<h1 align="center">Service AdventureMap<br>[🚧Work in Progress🚧]</h1>
+<h1 align="center">Service MeetMap<br>[🚧Work in Progress🚧]</h1>
 
 # Описание
 
